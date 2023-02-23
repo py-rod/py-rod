@@ -30,7 +30,7 @@ My name is Pablo Rodriguez, I'm 25 years old, I live in El Salvador and I'm a Fr
         <img src="http://pngimg.com/uploads/github/github_PNG20.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg](https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png)">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg](https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png">
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png" height="60"wifth="60">
