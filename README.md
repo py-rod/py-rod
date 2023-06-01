@@ -19,7 +19,7 @@ My name is Pablo Rodriguez, I'm 25 years old, I live in El Salvador and I'm a Fr
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/p/php.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="60">
