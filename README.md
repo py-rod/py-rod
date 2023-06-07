@@ -49,7 +49,9 @@ My name is Pablo Rodriguez, I'm 26 years old, I live in El Salvador and I'm a Fr
 
 <h2 align='left'><i>Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github-readme-activity-graph.vercel.app">
+	
+<a href="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=py-rod&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+">
  <img src="https://activity-graph.herokuapp.com/graph?username=py-rod&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
